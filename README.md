@@ -22,8 +22,10 @@ Writing complex SQL queries for data extraction, transformation, and loading.
 
 **🌱 Currently exploring:**
 
-Advanced features of the Modern Data Stack, including tools like dbt and Airbyte.
+Advanced features of the Modern Data Stack, including tools like dbt, Airbyte and MageAI.
+
 Enhancing my skills in Databricks for scalable data processing.
+
 Learning new strategies for better data architecture and system design.
 
 **📫 How to reach me:**
