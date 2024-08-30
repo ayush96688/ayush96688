@@ -13,8 +13,11 @@ Welcome to my GitHub! I'm passionate about transforming data into actionable ins
 **🔧 My skills include:**
 
 Building and optimizing data pipelines and ETL processes.
+
 Designing and developing interactive dashboards and reports using Power BI.
+
 Implementing data models and analytics solutions on cloud platforms.
+
 Writing complex SQL queries for data extraction, transformation, and loading.
 
 **🌱 Currently exploring:**
