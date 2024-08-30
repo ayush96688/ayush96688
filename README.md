@@ -5,7 +5,9 @@ Welcome to my GitHub! I'm passionate about transforming data into actionable ins
 🔍 What I do:
 
 **Business Intelligence & Analytics**: Leveraging data to drive decision-making and optimize business processes.
+
 **Certified Professional**: Azure Certified Data Engineer, Azure Certified Data Analyst, and AWS Certified Data Engineer.
+
 **Tools & Technologies**: Proficient in SQL, Python, Power BI, and Snowflake, with a strong foundation in cloud platforms like Azure and AWS.
 
 **🔧 My skills include:**
